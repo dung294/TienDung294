@@ -35,7 +35,6 @@ $nghiem= "x= $x";
 <td width="120">Phương trình </td>
 <td width="250">
 <input name="a" type="text" />
-Trang 11
 X + </td>
 <td width="352"><label for="textfield"></label>
 <input name="b" type="text" id="textfield" />
